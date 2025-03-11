@@ -1,0 +1,14 @@
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\bin\Debug\net8.0\LoopsTask.exe
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\bin\Debug\net8.0\LoopsTask.deps.json
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\bin\Debug\net8.0\LoopsTask.runtimeconfig.json
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\bin\Debug\net8.0\LoopsTask.dll
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\bin\Debug\net8.0\LoopsTask.pdb
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.AssemblyInfoInputs.cache
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.AssemblyInfo.cs
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.csproj.CoreCompileInputs.cache
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.dll
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\refint\LoopsTask.dll
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.pdb
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.genruntimeconfig.cache
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\ref\LoopsTask.dll
