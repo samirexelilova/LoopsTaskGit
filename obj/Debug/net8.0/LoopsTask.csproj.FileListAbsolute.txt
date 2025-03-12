@@ -12,3 +12,4 @@ C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\refint\Loops
 C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.pdb
 C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.genruntimeconfig.cache
 C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\ref\LoopsTask.dll
+C:\Users\Rinat_PC\source\repos\LoopsTask\LoopsTask\obj\Debug\net8.0\LoopsTask.sourcelink.json

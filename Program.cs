@@ -1,40 +1,50 @@
 ﻿using System;
+using System.ComponentModel.Design;
 
 // 1. Ədədin sade və ya murekkeb olduğunu tapan proqram
 
 //Console.WriteLine("eded daxil et");
 //int num = Convert.ToInt32(Console.ReadLine());
+//int divisor = 0;
 
 //if (num < 2)
 //{
 //    Console.WriteLine("ne sade deyil ne murekkeb");
 //}
-//else if (num==2)
+//else if (num == 2)
 //{
-//    Console.WriteLine("sadedir"); 
+//    Console.WriteLine("Bu eded sade ededdir");
 //}
-
 
 //for (int i = 2; i < num; i++)
 //{
 
 //    if (num % i == 0)
 //    {
-//        Console.WriteLine("murekkeb ededdir");
-//        return;
+//        divisor++;
 //    }
 
 //}
-//Console.WriteLine("sade ededdir");
+//if (divisor > 0)
+//{
+//    Console.WriteLine("Bu eded murekkeb ededdir");
+//}
+//else
+//{
+//    Console.WriteLine("Bu eded sade ededdir");
+//}
 
 
 
 
-Console.WriteLine("Ədədi daxil et:");
+
+//2.Ədədin 2 - nin quvvəti olub olmadığını tapan proqram
+
+Console.WriteLine("Ededi daxil et:");
 int num = Convert.ToInt32(Console.ReadLine());
 int power = 1;
 
-if (num <= 0)
+if (num <=0)
 {
     Console.WriteLine("bu ededin quvveti ola bilmez");
 }
@@ -54,19 +64,6 @@ else
         Console.WriteLine("Bu eded 2 nin quvveti deyil");
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
